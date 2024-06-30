@@ -1,4 +1,4 @@
-# Project Name: Promises with Ref Demo
+# Promises with Ref Demo
 
 ## Description
 This project demonstrates the usage of promises with the `ref` module in REact. It provides examples and explanations on how to use promises and the `ref` module together to handle asynchronous operations in a more organized and efficient way.
